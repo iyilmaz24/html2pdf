@@ -1,0 +1,16 @@
+
+#printDiv {
+    background-color: red;
+    font-size: x-large;
+    font-weight: bolder;
+    border: 4px solid black;
+    min-height: 70vh;
+    min-width: 50vw;
+}
+
+#printBtn {
+    background-color: green;
+    font: bold;
+    color: white;
+}
+
