@@ -4,8 +4,10 @@
     font-size: x-large;
     font-weight: bolder;
     border: 4px solid black;
-    min-height: 70vh;
-    min-width: 50vw;
+    min-height: 720px;
+    min-width: 480px;
+    margin: 0;
+
 }
 
 #printBtn {
@@ -14,3 +16,8 @@
     color: white;
 }
 
+@page {
+
+    /* for use in applying styles to page when printing */
+
+}
